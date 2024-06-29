@@ -13,7 +13,10 @@ Clipy is a Clipboard extension app for macOS.
 
 ---
 
-__Requirement__: macOS 10.10 Yosemite or higher
+__Requirement__: 
+
+- macOS 10.10 Yosemite or higher
+- for Apple Silicon: Install Rosetta (https://support.apple.com/en-us/102527) first
 
 __Distribution Site__ : <https://clipy-app.com>
 
